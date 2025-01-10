@@ -6,6 +6,6 @@ The primary goal of gesture recognition research is to create a system, which ca
 
 ![image alt](https://github.com/vaishnavisinnur/media-player-controller/blob/main/Fig_1.jpg?raw=true)
 
-![image alt]
+![image alt](https://github.com/vaishnavisinnur/media-player-controller/blob/main/Fig_2.jpg?raw=true)
 
-![image alt]
+![image alt](https://github.com/vaishnavisinnur/media-player-controller/blob/main/Fig_3.jpg?raw=true)
